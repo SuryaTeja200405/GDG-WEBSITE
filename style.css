@@ -85,7 +85,7 @@
 }
 .home-image{
     width:35%;
-    padding-top:20px ;
+    padding:20px ;
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
@@ -98,8 +98,8 @@
 .about-para{
     color:black;
     font-weight: 600;
-    font-family: "Google Sans";
-    font-size: 25px;
+    font-family: "Roboto";
+    font-size: 22px;
 }
 
 .custom-button {
@@ -122,7 +122,7 @@
 }
 .about-section{
     background-image:linear-gradient(to right,#235682,#4364de,#493fb0);
-    padding: 40px;
+    padding: 30px;
 }
 .carousel-indicators li {
     background-color: black; /* Change the background color to black */
@@ -134,8 +134,8 @@
 }
 .about-sec-theory {
     color: white;
-    font-family: "Google Sans";
-    font-size: 25px;
+    font-family: "Roboto";
+    font-size: 22px;
     font-weight: 500;
 
 }
@@ -148,14 +148,14 @@
 }
 .organiser-para{
     color:rgb(75, 56, 56);
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
-    font-family: "Google Sans";
+    font-family: "Roboto";
    
 }
 .organiser-section{
     background-image: linear-gradient(to right,white,skyblue,rgb(133, 133, 194));
-    padding: 20px;
+    padding: 30px;
 }
 .organiser-card{
     
@@ -482,8 +482,8 @@ textarea::-webkit-scrollbar-thumb{
 .swag-para{
     color:rgb(176, 167, 167);
     font-weight: 600;
-    font-family: "Google Sans";
-    font-size: 25px;
+    font-family: "Roboto";
+    font-size: 22px;
 }
 .copyright-section {
     background-color: #0d0d17;
@@ -494,3 +494,15 @@ textarea::-webkit-scrollbar-thumb{
     font-family: "Roboto";
     font-size: 20px;
 }
+.underline-dual {
+	display: inline;
+	background-image: linear-gradient(to right,rgb(31, 4, 152), rgb(229, 229, 237) 50%);
+	background-size: 100% 5px;
+	background-repeat: no-repeat;
+	border-width: 40px;
+	background-position: bottom;
+	padding-bottom: 2px; /* Adjust spacing */
+	
+  }
+
+	  
